@@ -98,7 +98,7 @@ switch (colorId) {
     break;
   case "RD":
     color = "Red";
-    break
+    break;
   case "PU":
     color = "Purple";
     break;
